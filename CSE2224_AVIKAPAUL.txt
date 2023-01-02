@@ -1,0 +1,14 @@
+Name of the student : AVIKA PAUL 
+Class Roll of the student : 24 
+Stream of the student : CSE 
+Your Student ID is : CSE2224
+
+Marks obtained in Math is : 71 
+Marks obtained in Python is : 92 
+Marks obtained in Physics is : 78 
+Marks obtained in Chemistry is : 85 
+Marks obtained in Biology is : 79 
+Marks obtained in English is : 73 
+
+You have got 478 in total with 79%
+Good Performance... You have passed the exam with grade C.

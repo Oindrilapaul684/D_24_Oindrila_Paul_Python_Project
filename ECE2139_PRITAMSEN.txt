@@ -1,0 +1,14 @@
+Name of the student : PRITAM SEN 
+Class Roll of the student : 39 
+Stream of the student : ECE 
+Your Student ID is : ECE2139
+
+Marks obtained in Math is : 87 
+Marks obtained in Python is : NULL 
+Marks obtained in Physics is : 76 
+Marks obtained in Chemistry is : 65 
+Marks obtained in Biology is : 78 
+Marks obtained in English is : 74 
+
+You have got 380 in total with 76%
+Good Performance... You have passed the exam with grade C.
